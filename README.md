@@ -15,11 +15,7 @@ Below, in italics, is the scenario and basic direction provided by our instructi
 
 *The CEO has emphasized the importance of a secure and efficient network infrastructure that enables seamless communication between the office and the home company's central server. Additionally, the company wants to implement measures to safeguard data, improve collaboration through file shares, ensure business continuity with a robust backup solution, and establish an IT onboarding policy.*
 
-As a team, we identified the following challenges within the problem domain for IT:
 
-* Filler
-* Filler
-* Filler
 
 The resources contained within the links below present the solutions we came up with to address these challenges.
 
@@ -27,13 +23,12 @@ The resources contained within the links below present the solutions we came up 
 **Thanks for visiting our page and we hope you enjoy browsing through our project files.**
 
 
-# Team Members
+# JingLbyte Members
 
-* Matthew Earles - [GitHub](https://github.com/Matt01965) , [LinkedIn](www.linkedin.com/in/matthew-earles)
-* Basil Evelyn - [GitHub](https://github.com/Copperlitt) , [LinkedIn](https://www.linkedin.com/in/basil-evelyn-455201262/)
-* Nathalie Abdallah - GitHub , LinkedIn
-* Arturo Laguna - GitHub , LinkedIn
-* Zachariah Woodbridge - [GitHub](https://github.com/Z-Zachattack) , [LinkedIn](https://www.linkedin.com/in/zachariahw/)
+| Matthew Earles | Zachariah Woodbridge | Arturo Laguna | Nathalie Abdallah |
+|:----------------------:|:-----------------------:|:----------------------:|:----------------------:|
+| [Linkedin](https://www.linkedin.com/in/matthew-earles)| [Linkedin](https://www.linkedin.com/in/zachariahw/) | [Linkedin](https://www.linkedin.com/in/arturo-laguna-81129320a) | [Linkedin](https://www.linkedin.com/in/nataliabdallah) 
+| [Github](https://github.com/Matt01965)| [Github](https://github.com/Z-Zachattack) | [Github](https://github.com/Random9904) | [Github](https://github.com/nataliabdallah) 
 
 
 # Project Management
